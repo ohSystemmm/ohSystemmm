@@ -10,8 +10,8 @@ I'm ohSystemm, a Computer Science student with a passion for technology. At 16, 
   Python       |     print("Python.py")
   Shell        |     echo "Shell.sh"
   C-Sharp      |     Console.WriteLine("C-Sharp.cs");
-  C            |     printf("C.c");``
-  JavaScript   |     console.log("JavaScript.js")
+  C            |     printf("C.c");
+  JavaScript   |     console.log("JavaScript.js");
   VBA          |     Debug.Print "VisualBasic.vb"
 ```
 
