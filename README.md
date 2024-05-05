@@ -2,7 +2,7 @@
 
 ## About Me
 Hello, 
-I'm ohSystemm, a Computer Science student with a passion for technology. At 16, I'm eager to expand my knowledge, especially in programming languages. Linux is my primary operating system, and I have 5-6 years of experience using it. In addition to my academic pursuits, I enjoy staying active through sports like swimming and skiing. Feel always free to contact me, E-Mail: ohSystemmm@gmail.com
+I'm ohSystemm, a Computer Science student with a passion for technology. At 16, I'm eager to expand my knowledge, especially in programming languages. Linux is my primary operating system, and I have 5-6 years of experience using it. In addition to my academic pursuits, I enjoy staying active through sports like swimming and skiing. Also, feel free to contact me any time. E-Mail: ohSystemmm@gmail.com
 
 ## Skills
 #### Languages:
