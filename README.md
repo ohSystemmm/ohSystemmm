@@ -2,7 +2,7 @@
 
 ## About Me
 Hello, 
-I'm ohSystemm, a Computer Science student with a passion for technology. At 16, I'm eager to expand my knowledge, especially in programming languages. Linux is my primary operating system, and I have 5-6 years of experience using it. In addition to my academic pursuits, I enjoy staying active through sports like swimming and skiing."
+I'm ohSystemm, a Computer Science student with a passion for technology. At 16, I'm eager to expand my knowledge, especially in programming languages. Linux is my primary operating system, and I have 5-6 years of experience using it. In addition to my academic pursuits, I enjoy staying active through sports like swimming and skiing.
 
 ## Skills
 - **Languages:**
@@ -15,19 +15,19 @@ I'm ohSystemm, a Computer Science student with a passion for technology. At 16, 
 
 - **Operating Systems:**
   - Currently using:
-  - Arch Linux - Hyprland
-  - Void Linux - Hyprland
-  - Windows 11 - ☠️
+  - _Arch Linux - Hyprland_
+  - _Void Linux - Hyprland_
+  - _Windows 11 - ☠️_
 
   - I have also used:
-  - Ubuntu, Kubuntu
-  - Linux Mint
-  - Elementary OS
+  - _Ubuntu, Kubuntu_
+  - _Linux Mint_
+  - _Elementary OS_
   
 - **Tools:**
-  - Git
-  - VSCodium
-  - Neovim
-  - Helix
-  - Visual Studio
+  - _Git_
+  - _VSCodium_
+  - _Neovim_
+  - _Helix_
+  - _Visual Studio_
 
