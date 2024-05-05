@@ -6,28 +6,28 @@ I'm ohSystemm, a Computer Science student with a passion for technology. At 16, 
 
 ## Skills
 - **Languages:**
-  [1] Python
-  [2] Shell
-  [3] C-Sharp
-  [4] C
-  [5] JavaScript
-  [6] VisualBasic
+  - Python
+  - Shell
+  - C-Sharp
+  - C
+  - JavaScript
+  - VisualBasic
 
 - **Operating Systems:**
-  Currently using:
-    [1] Arch Linux - Hyprland
-    [2] Void Linux - Hyprland
-    [3] Windows 11 - ☠️
+  - Currently using:
+  - Arch Linux - Hyprland
+  - Void Linux - Hyprland
+  - Windows 11 - ☠️
 
-  I have also used:
-    [1] Ubuntu, Kubuntu
-    [2] Linux Mint
-    [3] Elementary OS
+  - I have also used:
+  - Ubuntu, Kubuntu
+  - Linux Mint
+  - Elementary OS
   
 - **Tools:**
-  [1] Git
-  [2] VSCodium
-  [3] Neovim
-  [4] Helix
-  [5] Visual Studio
+  - Git
+  - VSCodium
+  - Neovim
+  - Helix
+  - Visual Studio
 
