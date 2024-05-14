@@ -13,7 +13,7 @@ E-Mail: ohSystemmm@gmail.com
   Shell        |     echo "Shell.sh"
   C-Sharp      |     Console.WriteLine("C-Sharp.cs");
   C            |     printf("C.c");
-  JavaScript   |     console.log("JavaScript.js");
+  JavaScript   |     console.log("JavaScript.js")
   VBA          |     Debug.Print "VisualBasic.vb"
 ```
 
