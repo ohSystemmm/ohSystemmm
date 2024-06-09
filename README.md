@@ -25,6 +25,8 @@ E-Mail: ohSystemmm@gmail.com
   Arch Linux     |  Hyprland   |   Fish (Friendly Interactive Shell)
   Void Linux     |  Hyprland   |   Fish (Friendly Interactive Shell)
   Windows 11     |     x       |   PowerShell
+  Android 10     |     x       |   -
+  Waydroid 11    |     x       |   Bridge to Fish
   ```
 - I have also used:
   ``` 
@@ -35,6 +37,7 @@ E-Mail: ohSystemmm@gmail.com
   Linux Mint     |    Mate     |   Bash
   Elementary OS  |    Gnome    |   Bash
   Windows 10     |     x       |   PowerShell
+  Android 6      |     x       |   -
   ``` 
 
 #### Tools:
