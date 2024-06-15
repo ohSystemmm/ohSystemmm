@@ -23,15 +23,13 @@ E-Mail: ohSystemmm@gmail.com
       OS               DE                    Shell
   ------------------------------------------------------------------
   Arch Linux     |  Hyprland   |   Fish (Friendly Interactive Shell)
-  Void Linux     |  Hyprland   |   Fish (Friendly Interactive Shell)
-  Windows 11     |     x       |   PowerShell
-  Android 10     |     x       |   -
-  Waydroid 11    |     x       |   Bridge to Fish
   ```
 - I have also used:
   ``` 
       OS               DE                    Shell
   ------------------------------------------------------------------
+  Void Linux     |  Hyprland   |   Fish (Friendly Interactive Shell)
+  Windows 11     |     x       |   PowerShell
   Ubuntu         |    Gnome    |   Bash
   Kubuntu        |    KDE      |   Bash
   Linux Mint     |    Mate     |   Bash
