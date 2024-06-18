@@ -35,7 +35,6 @@ E-Mail: ohSystemmm@gmail.com
   Linux Mint     |    Mate     |   Bash
   Elementary OS  |    Gnome    |   Bash
   Windows 10     |     x       |   PowerShell
-  Android 6      |     x       |   -
   ``` 
 
 #### Tools:
