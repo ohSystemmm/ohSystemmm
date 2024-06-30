@@ -14,7 +14,6 @@ E-Mail: ohSystemmm@gmail.com
   C-Sharp      |     Console.WriteLine("C-Sharp.cs");
   C            |     printf("C.c");
   JavaScript   |     console.log("JavaScript.js")
-  VBA          |     Debug.Print "VisualBasic.vb"
 ```
 
 #### Operating Systems:
