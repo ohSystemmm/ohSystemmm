@@ -11,6 +11,7 @@ E-Mail: ohSystemmm@gmail.com
 ```
   Python       |     print("Python.py")
   Shell        |     echo "Shell.sh"
+  Lua          |     print("Lua.lua")
   C-Sharp      |     Console.WriteLine("C-Sharp.cs");
   C            |     printf("C.c");
   JavaScript   |     console.log("JavaScript.js")
@@ -22,6 +23,7 @@ E-Mail: ohSystemmm@gmail.com
       OS               DE                    Shell
   ------------------------------------------------------------------
   Arch Linux     |  Hyprland   |   Fish (Friendly Interactive Shell)
+  Nix OS         |  Hyprland   |   Fish (Friendly Interactive Shell)
   ```
 - I have also used:
   ``` 
