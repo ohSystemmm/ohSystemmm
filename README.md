@@ -9,12 +9,14 @@ E-Mail: ohSystemmm@gmail.com
 ## Skills
 #### Languages:
 ```
-  Python       |     print("Python.py")                | B2
-  Shell        |     echo "Shell.sh"                   | C1
-  Lua          |     print("Lua.lua")                  | A2
-  C-Sharp      |     Console.WriteLine("C-Sharp.cs");  | A2
-  C            |     printf("C.c");                    | B1
-  JavaScript   |     console.log("JavaScript.js")      | A1
+  Name               Example                             Level 
+  -------------------------------------------------------------
+  Python       |     print("Python.py")                |  B2
+  Shell        |     echo "Shell.sh"                   |  C1
+  Lua          |     print("Lua.lua")                  |  A2
+  C-Sharp      |     Console.WriteLine("C-Sharp.cs");  |  A2
+  C            |     printf("C.c");                    |  B1
+  JavaScript   |     console.log("JavaScript.js")      |  A1
 ```
 
 #### Operating Systems:
