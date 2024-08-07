@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hello, I'm ohSystemmm, a Computer Science student with a passion for technology. At 16, I'm eager to expand my knowledge, especially in programming languages. Linux is my primary operating system, and I have 6-7 years of experience using it. Besides my academic pursuits, I stay active through sports such as swimming and skiing.</p>
+<p align="left">Hello, I'm ohSystemm, a Computer Science student with a passion for technology. At 16, I'm eager to expand my knowledge, especially in programming languages. Linux is my primary operating system, and I have 6-7 years of experience using it. In addition to my academic pursuits, I enjoy staying active through sports like swimming and skiing.</p>
 
 ###
 
@@ -58,7 +58,7 @@
   <a href="https://discordapp.com/users/1228636211384549457" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="mailto:ohSystemmm@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/ohSystemmm@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
