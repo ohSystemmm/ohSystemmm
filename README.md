@@ -1,29 +1,29 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=skyblue&right_color=pink&left_text=Visitors"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=skyblue&right_color=pink&left_text=訪問者数"  />
 
 ###
 
 <br clear="both">
 
-<h1 align="center">Hello, I'm ohSystemmm! 👋</h1>
+<h1 align="center">こんにちは、ohSystemmmです！ 👋</h1>
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">自己紹介</h3>
 
 ###
 
-<p align="left">Hello, I'm ohSystemm, a Computer Science student with a passion for technology. At 16, I'm eager to expand my knowledge, especially in programming languages. Linux is my primary operating system, and I have 6-7 years of experience using it. In addition to my academic pursuits, I enjoy staying active through sports like swimming and skiing.</p>
+<p align="left">こんにちは、ohSystemmmです。テクノロジーに情熱を持つコンピュータサイエンスの学生です。16歳で、特にプログラミング言語の知識を広げることに意欲的です。Linuxが私の主要なオペレーティングシステムで、6～7年の使用経験があります。学問に加えて、スイミングやスキーなどのスポーツを通じてアクティブに過ごすのが好きです。</p>
 
 ###
 
-<h3 align="left">Stats</h3>
+<h3 align="left">統計</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohSystemmm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohSystemmm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&custom_title=最も使用されている言語" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ohSystemmm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ohSystemmm&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohSystemmm&radius=16&theme=elegant&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">Languages</h3>
+<h3 align="left">使用言語</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">Get in Touch</h3>
+<h3 align="left">連絡先</h3>
 
 ###
 
