@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">自己紹介</h3>
 
 ###
 
