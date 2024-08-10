@@ -4,25 +4,25 @@
 
 <br clear="both">
 
-<h1 align="center">Hello, I'm ohSystemmm! 👋</h1>
+<h1 align="center">こんにちは、『N・LV』システムです！ 👋</h1>
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">自己紹介</h3>
 
 ###
 
-<p align="left">Hello, I'm ohSystemm, a Computer Science student with a passion for technology. At 16, I'm eager to expand my knowledge, especially in programming languages. Linux is my primary operating system, and I have 6-7 years of experience using it. In addition to my academic pursuits, I enjoy staying active through sports like swimming and skiing.</p>
+<p align="left">こんにちは、『N・LV』システムです。テクノロジーに情熱を持つコンピュータサイエンスの学生です。16歳で、特にプログラミング言語の知識を広げることに意欲的です。Linuxが私の主要なオペレーティングシステムで、6～7年の使用経験があります。学問に加えて、スイミングやスキーなどのスポーツを通じてアクティブに過ごすのが好きです。</p>
 
 ###
 
-<h3 align="left">Stats</h3>
+<h3 align="left">統計</h3>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohSystemmm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2&custom_title=Most%20Used%20Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ohSystemmm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ohSystemmm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Languages</h3>
+<h3 align="left">使用言語</h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">Get in Touch</h3>
+<h3 align="left">連絡先</h3>
 
 ###
 
