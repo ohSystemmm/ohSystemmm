@@ -5,8 +5,6 @@
 
 <br clear="both">
 
-<h1 align="center">こんにちは、『N・LV』システムです！ 👋</h1>
-
 ###
 
 <h3 align="left">自己紹介</h3>
