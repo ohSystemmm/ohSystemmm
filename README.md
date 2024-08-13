@@ -73,6 +73,6 @@
 
 ###
 
-<h1 align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=訪問していただきありがとうございます。" />
-</h1>
+</h3>
