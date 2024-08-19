@@ -1,4 +1,4 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-header.gif" width="100%"> 
    
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=grey&right_color=darkgrey&left_text=Visitors"  />
 
@@ -83,4 +83,4 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=訪問していただきありがとうございます。" />
 </h3>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
+<img src="https://github.com/AnderMendoza/AnderMendoza/blob/main/assets/banner-footer.gif" width="100%"> 
