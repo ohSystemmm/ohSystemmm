@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=こんにちは、『N・LV』システムです！+👋+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=こんにちは、システム君です！+👋+" />
 </h1>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">こんにちは、『N・LV』システムです。テクノロジーに情熱を持つコンピュータサイエンスの学生です。16歳で、特にプログラミング言語の知識を広げることに意欲的です。Linuxが私の主要なオペレーティングシステムで、6～7年の使用経験があります。学問に加えて、スイミングやスキーなどのスポーツを通じてアクティブに過ごすのが好きです。</p>
+<p align="left">こんにちは、システム君です。テクノロジーに情熱を持つコンピュータサイエンスの学生です。16歳で、特にプログラミング言語の知識を広げることに意欲的です。Linuxが私の主要なオペレーティングシステムで、6～7年の使用経験があります。学問に加えて、スイミングやスキーなどのスポーツを通じてアクティブに過ごすのが好きです。</p>
 
 ###
 
