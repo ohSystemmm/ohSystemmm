@@ -3,21 +3,21 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=grey&right_color=darkgrey&left_text=Visitors"  />
 
-<h1 align="center">
+<h1 align="center" style="font-size: 3rem;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hey,+nice+to+meet+you!+I'm+ohSystemmm!+👋+" />
 </h1>
 <br>
 
-<h2 align="left" style="color: #36BCF7">Introduction</h2>
+<h2 align="left" style="color: #36BCF7; font-size: 2rem;">Introduction</h2>
 
-<p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
+<p align="left" style="font-size: 1.2rem;">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 <div align="center">
 	<img src="dancing-gopher.gif" alt="Dancing Gopher" />
 </div>
 
 <br>
-<h2 align="left" style="color: #36BCF7">Statistics</h2>
+<h2 align="left" style="color: #36BCF7; font-size: 2rem;">Statistics</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ohSystemmm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
@@ -27,7 +27,7 @@
 </div>
 <br>
 
-<h2 align="left" style="color: #36BCF7">Languages I Use, Ranked by Skill Level</h2>
+<h2 align="left" style="color: #36BCF7; font-size: 2rem;">Languages I Use, Ranked by Skill Level</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
@@ -41,16 +41,16 @@
 </div>
 <br>
 
-<h2 align="left" style="color: #36BCF7">Like What You See? Hire Me!</h2>
-<p align="left">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results.</p>
-<p align="center">Feel free to get in touch to discuss how we can collaborate.</p>
+<h2 align="left" style="color: #36BCF7; font-size: 2rem;">Like What You See? Hire Me!</h2>
+<p align="left" style="font-size: 1.2rem;">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results.</p>
+<p align="center" style="font-size: 1.2rem;">Feel free to get in touch to discuss how we can collaborate.</p>
 <div align="center">
    <a href="https://mail.google.com/mail/u/ohSystemmm@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
-<h3 align="center">
+<h3 align="center" style="font-size: 2rem;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Bye+and+thank+you+for+visiting!" />
 </h3>
 
