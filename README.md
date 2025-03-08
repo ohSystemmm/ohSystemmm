@@ -13,7 +13,7 @@
 <p align="left" style="font-size: 1.2rem;">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 <div align="center">
-	<img src="dancing-gopher.gif" alt="Dancing Gopher" />
+	<img src="assets/dancing-gopher.gif" alt="Dancing Gopher" />
 </div>
 
 <br>
