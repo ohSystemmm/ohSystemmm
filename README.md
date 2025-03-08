@@ -42,9 +42,8 @@
 <h1 align="left">Like What You See? Hire Me!</h1>
 <p align="left">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results.</p>
 <p align="center">Feel free to get in touch to discuss how we can collaborate.</p>
-
-<div style="text-align: center;">
-  <a href="https://mail.google.com/mail/u/ohSystemmm@gmail.com" target="_blank">
+<div align="center">
+   <a href="https://mail.google.com/mail/u/ohSystemmm@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
