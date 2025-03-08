@@ -7,17 +7,17 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hey,+nice+to+meet+you!+I'm+ohSystemmm!+👋+" />
 </h1>
-
+<br>
 
 <h1 align="left">Introduction</h1>
 
 <p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 <div align="center">
-	<img src="assets/dancing-gopher.gif" alt="Dancing Gopher" />
+	<img src="dancing-gopher.gif" alt="Dancing Gopher" />
 </div>
 
-
+<br>
 <h1 align="left">Statistics</h1>
 
 <div align="center">
@@ -26,6 +26,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=ohSystemmm&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohSystemmm&radius=16&theme=elegant&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+<br>
 <h1 align="left">Languages I Use, Ranked by Skill Level</h1>
 
 <div align="center">
@@ -38,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
-
+<br>
 
 <h1 align="left">Like What You See? Hire Me!</h1>
 <p align="left">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results.</p>
