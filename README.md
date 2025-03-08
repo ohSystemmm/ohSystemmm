@@ -1,7 +1,9 @@
 
 ---
 
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=grey&right_color=darkgrey&left_text=Visitors"  />
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hey,+nice+to+meet+you!+I'm+ohSystemmm!+👋+" />
 </h1>
@@ -10,7 +12,7 @@
 <p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 
-<div style="text-align: center;"> <img src="dancing-gopher.gif" alt="Dancing Gopher" /> </div>
+<div style="text-align: center;"> <img src="assets/dancing-gopher.gif" alt="Dancing Gopher" /> </div>
 
 <h3 align="left">Statistics</h3>
 
@@ -36,8 +38,8 @@
 
 <h3 align="left">Like What You See? Hire Me!</h3>
 <p align="left">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results.</p>
-<p align="left">Feel free to get in touch to discuss how we can collaborate.</p>
-<div style="text-align: center;">
+<p align="center">Feel free to get in touch to discuss how we can collaborate.</p>
+<div style="text-align: center">
   <a href="https://mail.google.com/mail/u/ohSystemmm@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
@@ -46,4 +48,5 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Bye+and+thank+you+for+visiting!" />
 </h3>
+
 ---
