@@ -8,13 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hey,+nice+to+meet+you!+I'm+ohSystemmm!+👋+" />
 </h1>
 
-<h3 align="left">Introduction</h3>
+
+<h2 align="left">Introduction</h2>
+
 <p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 
-<div style="text-align: center;"> <img src="assets/dancing-gopher.gif" alt="Dancing Gopher" /> </div>
+<div style="text-align: center"> <img src="dancing-gopher.gif" alt="Dancing Gopher" /> </div>
 
-<h3 align="left">Statistics</h3>
+
+<h2 align="left">Statistics</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ohSystemmm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
