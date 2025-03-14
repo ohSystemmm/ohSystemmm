@@ -1,7 +1,7 @@
 
 ---
 <div align='center'>
-	<video src="assets/ohSystemmm.mp4"></video>
+	<img src='assets/ohSystemmm.png'/>
 </div>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=grey&right_color=darkgrey&left_text=Visitors"  />
