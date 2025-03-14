@@ -4,21 +4,14 @@
 	<img src='assets/ohSystemmm.png'/>
 </div>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=grey&right_color=darkgrey&left_text=Visitors"  />
-
-<h1 align="center" style="font-size: 3rem;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hey,+nice+to+meet+you!+I'm+ohSystemmm!+👋+" />
-</h1>
-<br>
 
 <h2 align="left" style="color: #36BCF7; font-size: 2rem;">Introduction</h2>
-
 <p align="left" style="font-size: 1.2rem;">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 <div align="center">
 	<img src="assets/dancing-gopher.gif" alt="Dancing Gopher" />
 </div>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=grey&right_color=darkgrey&left_text=Visitors"  />
 <br>
 <h2 align="left" style="color: #36BCF7; font-size: 2rem;">Statistics</h2>
 
