@@ -4,17 +4,20 @@
 	<img src='assets/ohSystemmm.png'/>
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=grey&right_color=darkgrey&left_text=Visitors"  />
+<br>
 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=5000&lines=Hey+there,+it's+me+❤️" />
 </div>
-<p align="center">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
+<p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 <div align="center">
 	<img src="assets/dancing-gopher.gif" alt="Dancing Gopher" />
 </div>
-<br><div align="center">
+
+<br>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=5000&lines=Statistics" />
 </div>
 
@@ -25,6 +28,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohSystemmm&radius=16&theme=elegant&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 <br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=5000&lines=Languages+I+Know" />
 </div>
@@ -39,6 +43,7 @@
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 <br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=5000&lines=Like+What+You+See?+Hire+Me!" />
 </div>
