@@ -15,7 +15,9 @@
 </div>
 
 <br>
+
 # Statistics
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ohSystemmm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ohSystemmm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -37,6 +39,7 @@
 </div>
 <br>
 <br>
+
 # Like What You See? Hire Me!
 <p align="center">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results. </p>
 <p align="center"> Feel free to get in touch to discuss how we can collaborate.</p>
