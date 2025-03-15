@@ -7,9 +7,7 @@
 <br>
 
 
-<div align="center">
-  <img src="assets/asset_1.png" />
-</div>
+# Introduction
 <p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 <div align="center">
@@ -17,10 +15,7 @@
 </div>
 
 <br>
-<div align="center" >
-  <img src="assets/asset_2.png" />
-</div>
-
+# Statistics
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ohSystemmm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ohSystemmm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -29,9 +24,7 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="assets/asset_3.png" />
-</div>
+# Languages I Know
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -44,9 +37,7 @@
 </div>
 <br>
 <br>
-<div align="center">
-  <img src="assets/asset_4.png" />
-</div>
+# Like What You See? Hire Me!
 <p align="center">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results. </p>
 <p align="center"> Feel free to get in touch to discuss how we can collaborate.</p>
 <div align="center">
