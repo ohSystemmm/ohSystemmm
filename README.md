@@ -7,7 +7,9 @@
 <br>
 
 
-# Introduction
+<div align="left">
+	<h2>Introduction</h2>
+</div>
 <p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch users (<strong>I use Arch BTW!</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
 
 <div align="center">
@@ -16,7 +18,9 @@
 
 <br>
 
-# Statistics
+<div align="center">
+	<h2>Statistics</h2>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ohSystemmm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
@@ -26,7 +30,9 @@
 </div>
 <br>
 
-# Languages I Know
+<div align="center">
+	<h2>Languages I Know</h2>
+</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -39,8 +45,9 @@
 </div>
 <br>
 <br>
-
-# Like What You See? Hire Me!
+<div align="center">
+	<h2>Like What You See? Hire Me!</h2>
+</div>
 <p align="center">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results. </p>
 <p align="center"> Feel free to get in touch to discuss how we can collaborate.</p>
 <div align="center">
