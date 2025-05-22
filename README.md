@@ -56,9 +56,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>    
   <a href="https://buymeacoffee.com/ohsystemmm" target="_blank">
-  <img src="assets/BuyMeACoffee.png" width="52" height="40" alt="buymeacoffee" />
+<img src="assets/BuyMeACoffeeLight.png" width="52" height="40" alt="buymeacoffee" />
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=5000&lines=Bye+and+thank+you+for+visiting!" />
