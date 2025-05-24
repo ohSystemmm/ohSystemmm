@@ -10,7 +10,8 @@
 <div align="left">
 	<h2>Introduction</h2>
 </div>
-<p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch and Gentoo users (<strong>Arch 'n Gentoo BTW</strong>). I often work on projects and I'm always open to new ones. Outside of my studies, I stay active with sports like swimming and skiing.</p>
+<p align="left">Hello, I'm ohSystemmm, a 17-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch and Gentoo users (<strong>Arch 'n Gentoo BTW</strong>). For my second OS, I use Gentoo Linux, embracing its flexibility and customization to fuel my technical curiosity. I often work on projects and I'm always open to new ones. </p>
+<p>Outside of my studies, I stay active with sports like swimming and skiing. I'm also deeply passionate about road and gravel biking, always looking for new routes and adventures on two wheels.</p>
 
 <div align="center">
 	<img src="assets/ArchLinux.png" alt="Arch Linux Logo" width="100" height="100" />	
@@ -49,7 +50,7 @@
 <div align="center">
 	<h2>Like What You See? Hire Me!</h2>
 </div>
-<p align="center">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results. </p>
+<p align="center">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results. If you're up to support me, feel free to do so via Buy Me a Coffee—your generosity fuels my passion for innovation and development!</p>
 <p align="center"> Feel free to get in touch to discuss how we can collaborate.</p>
 <div align="center">
    <a href="https://mail.google.com/mail/u/ohSystemmm@gmail.com" target="_blank">
