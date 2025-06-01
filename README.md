@@ -54,10 +54,13 @@
 <p align="center"> Feel free to get in touch to discuss how we can collaborate.</p>
 <div align="center">
    <a href="https://mail.google.com/mail/u/ohSystemmm@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="52" alt="gmail logo" />
   </a>    
   <a href="https://buymeacoffee.com/ohsystemmm" target="_blank">
-<img src="assets/BuyMeACoffeeLight.png" width="52" height="40" alt="buymeacoffee" />
+<img src="assets/BuyMeACoffeeLight.png" width="52" height="52" alt="buymeacoffee" />
+  </a>
+  <a href="https://www.strava.com/athletes/169654859" target="_blank">
+  <img src="assets/Strava.png" width="52" height="52" alt="strava" />
   </a>
 </div>
 
