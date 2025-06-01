@@ -64,7 +64,7 @@
   </a>
 </div>
 
-
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=1600&height=70&duration=5000&lines=Bye+and+thank+you+for+visiting!" />
 </div>
