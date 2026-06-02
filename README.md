@@ -10,14 +10,7 @@
 <div align="left">
 	<h2>Introduction</h2>
 </div>
-<p align="left">Hello, I'm ohSystemmm, a 18-year-old computer science student passionate about technology. I’m eager to deepen my knowledge of programming languages, and GNU/Linux is my primary operating system. And yes, in case you didn't know, I'm one of those "annoying" Arch and Gentoo users (<strong>Arch 'n Gentoo BTW</strong>). For my second OS, I use Gentoo Linux, embracing its flexibility and customization to fuel my technical curiosity. I often work on projects and I'm always open to new ones. </p>
-<p>Outside of my studies, I stay active with sports like swimming and skiing. I'm also deeply passionate about road and gravel biking, always looking for new routes and adventures on two wheels.</p>
-
-<div align="center">
-	<img src="assets/ArchLinux.png" alt="Arch Linux Logo" width="100" height="100" />	
-	<img src="assets/GentooLinux.png" alt="Gentoo Linux Logo" width="100" height="100" />
-</div>
-
+<p>Hello, I'm Leonhard Fresacher, an 18-year-old computer science student with a deep passion for technology. I am constantly expanding my knowledge of programming languages and diving into complex computer science projects. I love building things, solving technical challenges, and I'm always open to collaborating on new and exciting ventures. Outside of my studies, I stay active with sports.</p>
 <br>
 
 <div align="center">
