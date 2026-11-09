@@ -5,29 +5,13 @@
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ohSystemmm.ohSystemmm&left_color=grey&right_color=darkgrey&left_text=Visitors"  />
 <br>
-
-
-<div align="left">
+<div align="center">
 	<h2>Introduction</h2>
 </div>
-<p>Hello, I'm Leonhard Fresacher, an 18-year-old computer science student with a deep passion for technology. I am constantly expanding my knowledge of programming languages and diving into complex computer science projects. I love building things, solving technical challenges, and I'm always open to collaborating on new and exciting ventures. Outside of my studies, I stay active with sports.</p>
+<p>Hello, I'm Leonhard Fresacher, an 18-year-old computer science student with a deep passion for technology. I am constantly expanding my knowledge of programming languages and diving into complex computer science projects. I love learning new things, solving complex logical challenges, and I'm always open to collaborating on new and exciting ventures. Outside of my studies, I actively balance my technical skills with endurance sports.</p>
 <br>
-
 <div align="center">
-	<h2>Statistics</h2>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ohSystemmm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ohSystemmm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ohSystemmm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2%22%20height=%22150%22%20alt=%22languages%20graph%22" height="150" alt="languages graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=ohSystemmm&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ohSystemmm&radius=16&theme=elegant&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-<br>
-
-<div align="center">
-	<h2>Languages I Know</h2>
+	<h2>Languages I know</h2>
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
@@ -39,12 +23,7 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
-<br>
-<br>
-<div align="center">
-	<h2>Like What You See? Hire Me!</h2>
-</div>
-<p align="center">If you're looking for a dedicated and skilled developer for your next project, let's connect. I am always open to new opportunities where I can apply my expertise in programming and technology to deliver high-quality results. If you're up to support me, feel free to do so via Buy Me a Coffee—your generosity fuels my passion for innovation and development!</p>
+
 <p align="center"> Feel free to get in touch to discuss how we can collaborate.</p>
 <div align="center">
    <a href="https://mail.google.com/mail/u/ohSystemmm@gmail.com" target="_blank">
